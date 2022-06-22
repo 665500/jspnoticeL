@@ -11,7 +11,6 @@ request.setCharacterEncoding("utf-8");
 </head>
 <body>
 <h3>jstl1_token</h3>
-<hr />
 
 </body>
 </html>
